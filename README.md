@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Schurik8
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Modding in Minecraft
